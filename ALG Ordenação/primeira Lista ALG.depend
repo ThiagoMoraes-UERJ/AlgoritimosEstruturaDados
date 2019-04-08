@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506704231 source:c:\users\thiago moraes\desktop\algoritimos estr\primeira lista alg\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507941586 source:c:\users\thiago moraes\desktop\algoritimos estr\alg ordenação\main.c
+	<stdio.h>
+	<stdlib.h>
+
