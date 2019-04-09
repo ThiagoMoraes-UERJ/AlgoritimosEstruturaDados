@@ -7,7 +7,7 @@ A estrutura está divida em  Algoritimos de ordenação  e TAD
 
 Linguagem: C
 
-Métodos:                                                                                                     
+**Métodos:**                                                                                                    
 Selectionsort em ordem decrescente               
 InsertionSort em ordem decrescente                 
 BubleeSortM                                        
